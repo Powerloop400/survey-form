@@ -1,0 +1,72 @@
+
+body{
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1546967900-1bea5f16b69d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBsb2JieXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+  color: white;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Roboto; 
+}
+h1, h2, p{
+  width: 100%;
+  margin: 1em auto;
+  text-align: center;
+}
+label{
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  }
+form{
+  width: 70%;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 1em 2em 1em 2em;
+  border-radius: 5px;
+  font-size: 20px;
+  background-color: rgba(250, 230, 52, 0.6)
+}
+input, textarea{
+  width: 100%;
+  border: 1px solid white;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.radio{
+  margin-bottom: 50px;
+}
+input{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+select{
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px auto;;
+}
+input[type="submit"]{
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: white;
+  border-color: white;
+  min-width: 300px;
+}
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+input, textarea, select{
+  
+  border: 1px solid white;
+}
+
+** end of undefined **
+
